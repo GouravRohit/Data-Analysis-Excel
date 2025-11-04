@@ -23,6 +23,8 @@ Dataset:
 15. company: Production company (String)
 16. runtime: Runtime in minutes (Float)
 
+<img width="640" height="359" alt="Image" src="https://github.com/user-attachments/assets/9be2462e-d4cd-44c0-b475-f830c9a1fa08" />
+
 ## Conclusion
 1. Data-driven insights reveal clear industry patterns, showing how factors like budget, genre, and IMDb ratings significantly influence a movie’s financial success.
 2. Budget and Gross earnings show a positive correlation, indicating that higher investments often lead to higher box-office returns — though exceptions highlight the importance of content quality and audience   appeal.
