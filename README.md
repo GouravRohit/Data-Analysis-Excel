@@ -1,4 +1,7 @@
 # CinemaScope Analytics: Unveiling the Dynamics of Movie Success
+
+<img width="576" height="360" alt="Image" src="https://github.com/user-attachments/assets/a8d7bb69-0c4c-4c46-b9e2-2091547db534" />
+
 ## Objective- 
 The project aims to perform a thorough analysis of Hollywood Insights Inc.'s comprehensive movie dataset to uncover insights into the dynamics of the movie industry. Students will use advanced Excel techniques to explore various facets of the dataset, including trends in movie genres, financial analysis of movie budgets and earnings, and the impact of directors and stars on movie success. Key tasks involve data cleaning, manipulation, visualization, and the creation of an interactive dashboard that captures the essence of the movie industry's trends and patterns. This project is intended to enhance Hollywood Insights Inc.'s ability to provide strategic guidance to its clients, enabling better decision-making in film production, marketing, and distribution. The analysis will also contribute to understanding the evolving landscape of the movie industry, potentially influencing future trends in filmmaking and audience engagement.
 
